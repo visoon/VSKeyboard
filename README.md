@@ -6,7 +6,9 @@ Resolve the keyboard shelter problem with one line code !
 ## Installation
 
 > pod 'VSInputView'
-
+<br>
+<br>
+<br>
 
 ### preview gif
 ![image](https://github.com/visoon/VSKeyboard/blob/master/keyboard.gif)
