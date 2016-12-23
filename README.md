@@ -3,6 +3,9 @@ Resolve the keyboard shelter problem with one line code !
 <br>
 <br>
 <br>
+## Installation
+
+> pod 'VSInputView'
 
 
 ### preview gif
